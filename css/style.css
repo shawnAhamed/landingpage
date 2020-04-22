@@ -15,6 +15,8 @@
   max-width: none;
 }
 
+
+
 *,
 *:before,
 *:after {
@@ -37,7 +39,7 @@
 }
 
 .slick-slide {
-  float: left /* If RTL Make This Right */ ;
+  float: left /* If RTL Make Thisght */ ;
   padding: 0;
 }
 
